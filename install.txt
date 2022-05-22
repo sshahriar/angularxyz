@@ -1,1 +1,11 @@
-fsdgdsv gdfsg
+
+- install node.js  
+- install angular cli: npm install -g @angular/cli
+
+initiate angular : ng new blog(project name )
+go to file directory: cd  example
+open  in vs code: code . 
+go inside folder and run: ng serve
+
+open http://localhost:4200/ 
+done 
