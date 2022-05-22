@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=6DUNKkJL8Bc&list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C&index=2
 - install node.js  
 - install angular cli: npm install -g @angular/cli
 
